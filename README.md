@@ -7,11 +7,11 @@ Bank Management System using Java and MySQL
 3. MySQL connection
 4. GUI
 
-#### THis project structure
+#### This project structure
 1. Documentation
 2. 2 Directories
-2.1 bms directory has the code which displays in terminal
-2.2 pages directory has the code which displays in GUI
+2.1. bms directory has the code which displays in terminal
+2.2. pages directory has the code which displays in GUI
 3. README.md file
 
 #### This project technologies
