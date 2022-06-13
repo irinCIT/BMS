@@ -27,3 +27,5 @@ How to connect Java IDE with MySQL workbench?
 Check this URL: https://dev.mysql.com/downloads/connector/j/ - to download the jar file
                 https://www.geeksforgeeks.org/how-to-add-external-jar-file-to-an-intellij-idea-project/ - to install the jar file in IntelliJ
                 https://www.youtube.com/watch?v=OQOpYHwA1A0 - to install the jar file in NetBeans
+                
+BECAUSE FOR THE TEAM IT WAS REALLY WARD TO COMMIT & PUSH THE PROJECT FROM THE NETBEANS IDE, WE CREATED THE SAME PROJECT THAT RUNS INTO TERMINAL IN INTELLIJ
